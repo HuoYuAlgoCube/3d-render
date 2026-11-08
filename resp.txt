@@ -1,0 +1,9 @@
+"src/raytracing/main.c"
+"src/raytracing/graphics.c"
+"src/raytracing/render.c"
+
+-I"src/raytracing/"
+-I"src/include/"
+
+-lgdi32
+-lwinmm
